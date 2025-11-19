@@ -105,6 +105,6 @@ José Vitor Santos Alves
 
 Guilherme De Luca Testoni Neiva Pereira
 
-```http
+```
   Projeto desenvolvido para a disciplina de Inteligência Artificial - Universidade Federal de São João del-Rei
 ```
